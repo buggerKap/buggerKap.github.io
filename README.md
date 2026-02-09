@@ -1,13 +1,18 @@
-<!DOCTYPE css>
 <html>
-  <head>
+<head>
 <style>
-  p{
-    font-size: 10;
-    }
+body {
+  background-color: lightblue;
+}
 </style>
-  </head>
-  <body>
-    <p> sdfa </p>
-  </body>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+<p>This page has a light blue background color!</p>
+
+</body>
 </html>
+
+
