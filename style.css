@@ -4,6 +4,9 @@ body {
   margin-top: 50px;
   background-color: green;
 }
+p1{
+  color: red;
+}
  
 button {
   background-color: blue;
