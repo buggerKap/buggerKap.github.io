@@ -20,7 +20,17 @@ h2 {
   text-align: left;
   color: black;
 }
- 
+ ul{
+   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+ }  
+ul li {
+  float: left;
+}
+
 /* button {
   background-color: blue;
   color: white;
