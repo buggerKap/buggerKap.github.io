@@ -20,7 +20,7 @@ ul {
 
 ul li {
   float: center;
-  border-right: 1px solid #bbb
+  border-right: 10px solid #bbb
 }
 ul li:lastChild{
   border: none;
