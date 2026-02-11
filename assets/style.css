@@ -2,23 +2,26 @@ body {
   font-family: Arial, serif;
   text-align: center;
   margin-top: 50px;
-  background-color: green;
+  background-color: black;
 }
+
 p1{
   color: red;
 }
 
 h1, h2 {
   font-family: Arial, Helvetica, sans-serif;
+  color: with;
+
 }
 
 h1{
   text-align: center;
+  font-size: x-large;
 }
 
 h2 {
   text-align: left;
-  color: black;
 }
 
 ul{
@@ -41,6 +44,12 @@ ul li a {
   text-decoration: none;
   display:flex;
   flex-direction: row;
+}
+
+.projectPanel{
+    text-align: left;
+    background-color: #333333;
+    color: white;
 }
 
 ul li a:hover{
