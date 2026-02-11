@@ -59,7 +59,7 @@ ul li a:hover {
 }
 
 .projectPanel .desc{
-  width:100px;
+  width:100%;
   height: auto;
   position: absolute;
 }
@@ -74,5 +74,5 @@ p{
 }
 .highlight{
   background-color: grey;
-  width: 1500px;
+  width: 100%;
 }
