@@ -17,7 +17,6 @@ ul {
   overflow: hidden;
   background-color: #333333;
 }
-
 ul li {
   float: center;
   border-right: 10px solid #bbb
@@ -25,7 +24,10 @@ ul li {
 ul li:lastChild{
   border: none;
 }
-
+div
+{
+  padding: 10px;
+}
 ul li a {
   display: block;
   color: white;
