@@ -62,6 +62,7 @@ ul li a:hover {
   padding:0;
   border: 1px solid green;
   width:100px;
+  position: absolute;
 }
 
 .projectPanel img{
