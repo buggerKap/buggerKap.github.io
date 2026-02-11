@@ -48,8 +48,6 @@ ul li a:hover {
   text-align: left;
   background-color: #333333;
   color: white;
-  width: auto;
-  height: auto;
   position: relative;
 }
 .projectPanel .header{
