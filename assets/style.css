@@ -46,3 +46,7 @@ ul li a:hover {
 p{
   color:white;
 }
+.highlight{
+  background-color: grey;
+  width: 300px;
+}
