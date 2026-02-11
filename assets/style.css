@@ -59,9 +59,8 @@ ul li a:hover {
 }
 
 .projectPanel .desc{
-  padding:0;
-  border: 1px solid green;
   width:100px;
+  height: auto;
   position: absolute;
 }
 
