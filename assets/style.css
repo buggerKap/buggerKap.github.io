@@ -14,14 +14,12 @@ h1, h2 {
 
 ul {
   list-style-type: none;
-  margin: 100px;
-  padding: 0;
   overflow: hidden;
   background-color: #333333;
 }
 
 ul li {
-  float: left;
+  float: center;
   border-right: 1px solid #bbb
 }
 ul li:lastChild{
