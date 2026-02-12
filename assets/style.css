@@ -50,6 +50,7 @@ ul li a:hover {
   color: white;
   width: 100%;
   height: auto;
+  border: 1px solid red;
   position: relative;
 }
 .projectPanel .header{
@@ -66,7 +67,6 @@ ul li a:hover {
 }
 
 .projectPanel img{
-  border: 1px solid red;
   right:0px;
   width: 100px;
   height: 100%;
