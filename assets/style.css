@@ -48,6 +48,7 @@ ul li a:hover {
   text-align: left;
   background-color: #333333;
   color: white;
+  width: auto;
   position: relative;
 }
 .projectPanel .header{
@@ -58,7 +59,7 @@ ul li a:hover {
 
 .projectPanel .desc{
   width:50%;
-  height: 100%;
+  height: auto;
   position: absolute;
 }
 
