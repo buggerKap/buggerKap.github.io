@@ -61,15 +61,15 @@ ul li a:hover {
 }
 
 .projectPanel .desc{
-  width: 10px;
-  height: auto;
+  width: 100px;
+  height: 100%;
   position: absolute;
 }
 
 .projectPanel img{
   right:0px;
   width: 100px;
-  height: 100%;
+  height: 100px;
   position: absolute;
 }
 p{
