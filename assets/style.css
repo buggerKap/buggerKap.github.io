@@ -48,7 +48,7 @@ ul li a:hover {
   text-align: left;
   background-color: #333333;
   color: white;
-  width: 100px;
+  width: auto;
   height: 300px;
   border: 1px solid red;
   position: relative;
@@ -63,14 +63,14 @@ ul li a:hover {
 .projectPanel .desc{
   border: 1px solid brown;
   width: 50px;
-  height: 100%;
+  height: auto;
   position: absolute;
 }
 
 .projectPanel img{
   right:0px;
   width: 25%;
-  height: 100%;
+  height: auto;
   position: absolute;
 }
 p{
