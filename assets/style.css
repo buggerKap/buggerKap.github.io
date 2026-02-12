@@ -58,7 +58,7 @@ ul li a:hover {
 
 .projectPanel .desc{
   width:50%;
-  height: auto;
+  height: 100%;
   position: absolute;
 }
 
