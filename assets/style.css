@@ -61,12 +61,12 @@ ul li a:hover {
 .projectPanel .desc{
   border: 1px solid brown;
   width: 50%;
-  height: auto;
+  height: 100%;
 }
 
 .projectPanel img{
-  right:0px;
-  width: 0%;
+  right: 0px;
+  width: 25%;
   height: 100%;
 }
 
