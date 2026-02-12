@@ -69,10 +69,11 @@ ul li a:hover {
 
 .projectPanel img{
   right:0px;
-  width: 25%;
-  height: auto;
+  width: 0%;
+  height: 100%;
   position: absolute;
 }
+
 p{
   color:white;
 }
