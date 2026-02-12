@@ -65,7 +65,7 @@ ul li a:hover {
 .projectPanel img{
   border: 1px solid red;
   right:0px;
-  width: 500px;
+  width: 100px;
   height: 100%;
   position: absolute;
 }
