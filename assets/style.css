@@ -18,12 +18,17 @@ ul {
   background-color: #ff0000;
 }
 
-ul{
-  margin: 0;
-  padding:0;
-  background-color: #ff0000;
+ul li a{
   display: flex;
+  color: white;
+  padding: 14px 16;
+  text-decoration: none;
 }
+
+ul li a:hover{
+  background-color: grey;
+}
+
 .projects{
   display: flex;
   flex-wrap: wrap;
