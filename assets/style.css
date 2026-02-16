@@ -13,30 +13,26 @@ h1, h2 {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 30;
+  padding: 0;
   overflow: hidden;
   background-color: #333333;
 }
+
 ul li {
-  float: center;
-  border-right: 10px solid #bbb
-}
-ul li:lastChild{
-  border: none;
+  float: left;
 }
 
 ul li a {
   display: block;
-  color: purple;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #ff0000;
 }
-
 .projects{
   display: flex;
   flex-wrap: wrap;
