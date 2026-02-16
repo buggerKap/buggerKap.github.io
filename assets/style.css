@@ -36,9 +36,7 @@ ul li a:hover{
   background-color: grey;  
   display:block;
 }
-ul li a{
-  display: block;
-}
+
 
 .projects{
   display: flex;
