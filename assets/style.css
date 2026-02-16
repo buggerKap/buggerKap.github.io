@@ -15,8 +15,12 @@ h1, h2 {
   padding: 0;
   overflow: hidden;
   background-color: grey;  
+  justify-content: center;
 }
-
+#listNav{
+  border-right: 1px solid #333;
+  border-left: 1px solid #333;
+}
 ul li a{
   display: flex;
   color: white;
@@ -30,6 +34,9 @@ ul li a:hover{
   background-color: rgb(255, 255, 255);
   color: black;
 }
+
+
+
 #contacts{
    list-style-type: none;
   margin: 0;
@@ -37,6 +44,7 @@ ul li a:hover{
   overflow: hidden;
   background-color: grey;  
   display:block;
+
 }
 
 .projects{
