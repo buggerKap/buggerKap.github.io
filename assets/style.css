@@ -9,13 +9,12 @@ h1, h2 {
   color: white;
   text-align: left;
 }
-
-ul {
+#navbar{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: grey;  
 }
 
 ul li a{
