@@ -28,10 +28,10 @@ h1{
   border-left: 1px solid rgb(90, 90, 90);
 }
 ul li a{
-  padding: 14px 16px;
+  display: block;
+  color: black;
+  padding: 16px 16px;
   text-decoration: none;
-  display:flex;
-
 }
 
 ul li a:hover{
