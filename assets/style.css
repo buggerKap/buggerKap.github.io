@@ -16,7 +16,7 @@ h1{
 }
 #navbar{
   list-style-type: none;
-  margin: 0;
+  margin: 10px;
   padding: 10;
   overflow: hidden;
   background-color: brown;  
@@ -51,7 +51,7 @@ ul li a{
 .projectsPanel {
   position:relative;
   margin: 5px;
-  height: 200px;
+  height: 2000px;
   width: full;
   background-color: brown; 
 }
