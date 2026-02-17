@@ -85,8 +85,9 @@ ul li a:hover{
   height: auto;
 }
 .projectsPanel .desc{
+  position: absolute;
   padding: 15px;
-  width: 70%;
+  width: 60%;
   text-align: center;
   color: black;
 
