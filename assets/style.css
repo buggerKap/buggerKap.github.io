@@ -64,6 +64,8 @@ ul li a{
     padding: 15px;
     width: 50%;
     height:auto;
+  border: 10px solid green;
+
 }
 
 
@@ -71,11 +73,14 @@ ul li a{
   width: 25%;
   height: 50%;
   position: absolute;
+  border: 10px solid green;
   right:5px;
 }
 
 .projectsPanel .desc{
   position: absolute;
+  border: 10px solid green;
+
   width: 50%;
   bottom: 10px;
   left: 5px;
