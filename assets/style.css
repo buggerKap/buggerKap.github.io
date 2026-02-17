@@ -77,6 +77,7 @@ ul li a{
   position: absolute;
   border: 10px solid green;
   width: 50%;
+  bottom: 10px;
   left: 5px;
   font-family: Arial, Helvetica, sans-serif;
   size: 24px;
