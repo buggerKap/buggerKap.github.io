@@ -51,45 +51,46 @@ ul li a:hover{
 }
 
 
-.projects {
-  display: flex;
+.gallery {
+  display: block;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
 
 .projectsPanel {
-  position: relative;
+  position:relative;
   margin: 5px;
   border: 1px solid #ccc;
-  padding: 15px;
-  width: auto;
-  height: 280px;
-  background-color: #788;
-}
-.projectsPanel .title{
-  font-size: 32px;
-  color: black;
-  padding:15px;
-  width:75%;
-  height: auto;
-  
+  height: 180px;
+  width: full;
+  background-color: brown; 
 }
 
-.projectsPanel img{
+.projectsPanel .title{
+	color: grey;
+    font-size:32px;
+    padding: 15px;
+    width: 75%;
+    height:auto;
+    border: 1px solid #777;
+}
+
+.gallery-item:hover {
+  border: 1px solid #777;
+}
+
+.projectsPanel img {
   width: 25%;
   position: absolute;
+  border: 10px solid #333;
   right:0;
   top:20px;
-  bottom: 10px;
   height: auto;
 }
-.projectsPanel .desc{
+
+.projectsPanel .desc {
   padding: 15px;
-  width: 60%;
-  text-align: center;
-  color: black;
-  font-size: 24px;
-  background-color:  white;
+  border: 5px solid #333;
 }
 
 
