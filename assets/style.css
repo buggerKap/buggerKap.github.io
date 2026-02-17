@@ -44,7 +44,7 @@ ul li a{
 }
 
 
-.gallery {
+.project {
   display: block;
   flex-wrap: wrap;
   justify-content: flex-start;
@@ -52,8 +52,7 @@ ul li a{
 
 .projectsPanel {
   position:relative;
-  margin: 5px;
-  height: 180px;
+  height: 200px;
   width: full;
   background-color: brown; 
 }
