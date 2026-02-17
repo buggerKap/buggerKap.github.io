@@ -12,18 +12,17 @@ h1, h2 {
 #navbar{
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10;
   overflow: hidden;
   background-color: grey;  
   justify-content: center;
+  color: black;
 }
 #listNav{
   border-right: 1px solid white;
   border-left: 1px solid white;
 }
 ul li a{
-  display: flex;
-  color: white;
   padding: 14px 16px;
   text-decoration: none;
 }
