@@ -51,7 +51,7 @@ ul li a{
 .projectsPanel {
   position:relative;
   margin: 5px;
-  height: 2000px;
+  height: 200px;
   width: full;
   background-color: brown; 
 }
@@ -76,7 +76,6 @@ ul li a{
 .projectsPanel .desc{
   position: absolute;
   border: 10px solid green;
-
   width: 50%;
   bottom: 10px;
   left: 5px;
