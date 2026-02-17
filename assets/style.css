@@ -19,7 +19,7 @@ h1{
   margin: 0;
   padding: 10;
   overflow: hidden;
-  background-color: grey;  
+  background-color: brown;  
   justify-content: center;
   color: black;
 }
@@ -30,17 +30,10 @@ h1{
 }
 ul li a{
   display: block;
-  color: black;
+  color: brown;
   padding: 16px 16px;
   text-decoration: none;
 }
-
-ul li a:hover{
-  background-color: rgb(255, 255, 255);
-  color: black;
-}
-
-
 
 #contacts{
   margin: 0;
