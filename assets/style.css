@@ -62,12 +62,13 @@ ul li a:hover{
   border: 1px solid #ccc;
   padding: 15px;
   width: 180px;
+  border: 1px, solid red ;
   background-color: grey;
 }
 
 .projectsPanel img{
   width: 50%;
-  border: 1 solid black;
+  border: 1px solid green;
   height: auto;
   right: 0;
 }
