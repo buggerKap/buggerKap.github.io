@@ -52,17 +52,17 @@ ul li a:hover{
 }
 
 .projects{
-  display: flex;
+  display: block;
   flex-wrap: wrap;
-  justify-content: flex-start;
   border: 2px  solid gold;
+  
 }
 
 .projectPanel{
   text-align: left;
-  background-color: rgb(36, 36, 36);
+  background-color: rgb(255, 0, 0);
   position: relative;
-  color: white;
+  color: rgb(255, 255, 255);
   width: 100%;
   height: 100%;
   border: 1px solid red;
