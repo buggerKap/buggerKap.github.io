@@ -70,7 +70,6 @@ ul li a{
 .projectsPanel img {
   width: 25%;
   height: 50%;
-  height: auto;
   position: absolute;
   right:5px;
 }
