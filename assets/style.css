@@ -76,13 +76,15 @@ ul li a:hover{
 }
 
 .projectsPanel img{
- width: 25%;
+  width: 25%;
+  height: 70%;
   position: absolute;
   right:0;
   top:20px;
+  bottom: 10px;
   height: auto;
 }
-.projectsPanel .desc {
+.projectsPanel .desc{
   padding: 15px;
   width: 70%;
   text-align: center;
