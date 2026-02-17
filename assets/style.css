@@ -51,7 +51,7 @@ ul li a{
 .projectsPanel {
   position:relative;
   margin: 5px;
-  height: auto;
+  height: 500px;
   width: full;
   background-color: brown; 
 }
