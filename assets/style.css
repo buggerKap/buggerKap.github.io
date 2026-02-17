@@ -60,7 +60,6 @@ ul li a{
 
 .projectsPanel .title{
 	color: black;
-
     font-size:32px;
     padding: 15px;
     width: 50%;
@@ -79,6 +78,7 @@ ul li a{
 .projectsPanel .desc {
   overflow:auto;
   padding: 15px;
+  color:white;
   border: 5px solid white;
   background-color: green;
 }
