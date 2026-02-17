@@ -60,37 +60,32 @@ ul li a:hover{
 .projectsPanel {
   position:relative;
   margin: 5px;
-  border: 1px solid #ccc;
   height: 180px;
   width: full;
   background-color: brown; 
 }
 
 .projectsPanel .title{
-	color: grey;
+	color: black;
+
     font-size:32px;
     padding: 15px;
-    width: 75%;
+    width: 50%;
     height:auto;
-    border: 1px solid #777;
+    border: 3px solid  #777;
 }
 
-.gallery-item:hover {
-  border: 1px solid #777;
-}
 
 .projectsPanel img {
   width: 25%;
   position: absolute;
-  border: 10px solid #333;
   right:0;
   top:20px;
-  height: auto;
 }
 
 .projectsPanel .desc {
   padding: 15px;
-  border: 5px solid #333;
+  border: 5px solid white;
 }
 
 
