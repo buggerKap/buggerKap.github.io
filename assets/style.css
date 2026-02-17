@@ -58,26 +58,33 @@ ul li a:hover{
 }
 
 .projectsPanel {
+  position: relative;
   margin: 5px;
   border: 1px solid #ccc;
   padding: 15px;
-  width: 180px;
-  border: 1px, solid red ;
-  background-color: grey;
+  width: auto;
+  height: 280px;
+  background-color: #788;
 }
 .projectsPanel .title{
-  font-size: 25px;
+  font-size: 32px;
+  color: black;
+  padding:15px;
+  width:75%;
+  height: auto;
+  
 }
 
 .projectsPanel img{
-  width: 50%;
-  border: 1px solid green;
+ width: 25%;
+  position: absolute;
+  right:0;
+  top:20px;
   height: auto;
-  right: 0;
 }
-
 .projectsPanel .desc {
   padding: 15px;
+  width: 70%;
   text-align: center;
   color: black;
 
