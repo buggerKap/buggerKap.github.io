@@ -39,7 +39,7 @@ ul li a{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;  
+  background-color: brown;  
   display:block;
 }
 
@@ -78,6 +78,6 @@ ul li a{
 
 
 .highlight{
-  background-color: grey;
+  background-color: brown;
   width: 100%;
 }
