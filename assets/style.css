@@ -36,8 +36,6 @@ ul li a{
 }
 
 #contacts{
-  margin: 0;
-  padding: 0;
   overflow: hidden;
   background-color: brown;  
   display:block;
@@ -52,6 +50,7 @@ ul li a{
 
 .projectsPanel {
   position:relative;
+  margin: 5px;
   height: 200px;
   width: full;
   background-color: brown; 
