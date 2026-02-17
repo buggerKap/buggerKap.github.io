@@ -43,13 +43,13 @@ ul li a:hover{
 
 
 #contacts{
-  list-style-type: disc;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: grey;  
   display:block;
 }
+
 
 .projects {
   display: flex;
@@ -85,13 +85,13 @@ ul li a:hover{
   height: auto;
 }
 .projectsPanel .desc{
-  position: absolute;
   padding: 15px;
   width: 60%;
   text-align: center;
   color: black;
   font-size: 24px;
 }
+
 
 p{
   color:white;
